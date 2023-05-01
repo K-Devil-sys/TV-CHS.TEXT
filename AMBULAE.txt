@@ -1,0 +1,16 @@
+GXT Editor 1.0 Section
+AMBULAE
+12
+
+ALEVEL	Paramedic Mission Level ~1~
+ATUTOR2	~g~Drive the patients to Hospital CAREFULLY. Keep an eye out for local body snatchers trying to create new business...
+A_CANC	~r~Paramedic mission cancelled!
+A_COMP1	Paramedic missions complete: $~1~
+A_COMP2	Necro One delivered to Vercetti Estate!
+A_COMP3	Watch out, body snatchers are out on the hunt!
+A_FAIL1	Paramedic mission ended.
+A_FAIL2	~r~Your lack of urgency has been fatal to the patient!
+A_FAIL3	~r~The patient is dead!!
+A_FULL	~r~Ambulance full!!
+A_PASS	Rescued!
+A_SAVES	PEOPLE SAVED: ~1~

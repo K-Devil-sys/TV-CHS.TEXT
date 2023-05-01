@@ -1,0 +1,17 @@
+GXT Editor 1.0 Section
+KICKSTT
+13
+
+GETBIKE	~g~You have ~1~ seconds to return to a Caddy before the mission ends.
+KICK1_1	~g~Complete the course as quickly as possible.
+KICK1_2	~r~You did not get back to the Caddy quickly enough!
+KICK1_6	~g~Gaming!
+KICK1_7	~r~You have wrecked the Caddy!
+KICK1_8	~g~Get in the Caddy!
+KICK1_T	TIME TAKEN:
+KICKTM	~b~EVENT TIME: ~1~:~1~
+KICKTM2	~b~EVENT TIME: ~1~:0~1~
+KICK_10	~g~Use the Caddy to complete the course by passing through all of the checkpoints.
+KICK_11	~g~To leave the mission stand in the ~q~pink marker~g~ on foot.
+KICK_12	~r~You bottled it!
+KICK_13	~r~You have taken too long!

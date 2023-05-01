@@ -1,0 +1,44 @@
+GXT Editor 1.0 Section
+TAXI1
+40
+
+FARE1	~g~Destination ~w~A roof opposite 'The Pole Position Club' ~g~in Ocean Beach.
+FARE10	~g~Destination ~w~'Villa' roof ~g~in Vice Point.
+FARE11	~g~Destination ~w~Roof at the back of the 'Hospital' ~g~in Ocean Beach.
+FARE12	~g~Destination ~w~Inside the 'Grocery Store' ~g~in Vice Point.
+FARE13	~g~Destination ~w~'Vacant Lot' ~g~in Washington Beach.
+FARE14	~g~Destination ~w~'North Point Mall' planter ~g~in Vice Point.
+FARE15	~g~Destination ~w~'Peninsula House' roof ~g~in Vice Point.
+FARE2	~g~Destination ~w~a raised grassy area near 'The Malibu club' ~g~in Vice Point.
+FARE3	~g~Destination ~w~'The Marina' roof ~g~in Ocean Beach.
+FARE4	~g~Destination ~w~'Ammu-Nation' roof ~g~in Ocean Beach.
+FARE5	~g~Destination ~w~The 'Scooter Rental Store' roof ~g~in Washington Beach.
+FARE6	~g~Destination ~w~Concrete slope opposite 'The North Point Mall' ~g~in Vice Point.
+FARE7	~g~Destination ~w~Garage roof ~g~in Vice Point.
+FARE8	~g~Destination ~w~'Beach Patrol HQ' roof ~g~in Ocean Beach.
+FARE9	~g~Destination ~w~'Pharmacy' roof ~g~in Washington Beach.
+FARES	FARES:
+IN_ROW	~1~ IN A ROW bonus! $~1~
+MFARE1	~g~Destination ~w~'Ammu-Nation' roof ~g~in Downtown.
+MFARE2	~g~Destination ~w~atop an aircraft hanger ~g~at Escobar International Airport.
+TAXI1	~g~Look for a fare.
+TAXI3	~r~Your passenger fled in terror!
+TAXI4	Fare complete!
+TAXI5	SPEED BONUS!!
+TAXI6	GymnasTaxi Over
+TAXI7	~r~Your car is trashed, get it repaired.
+TAXIH1	Vice City's citizens are wise to its dangerous streets, you may need the horn boost in order to reach their desired destinations!
+TSCORE2	$~1~
+WFARE10	~g~Destination ~w~'Cherry Poppers' garage roof ~g~in Little Havana.
+WFARE11	~g~Destination ~w~'The Stadium' ~g~in Downtown.
+WFARE12	~g~Destination ~w~'Funeraria Romero' roof~g~in Little Haiti.
+WFARE13	~g~Destination ~w~small roof next do a dirt track ~g~in Downtown.
+WFARE14	~g~Destination ~w~aboard the blue ship ~g~in Viceport.
+WFARE15	~g~Destination ~w~the roof of 'Joe's Beds' ~g~in Little Haiti.
+WFARE3	~g~Destination ~w~abandoned building roof ~g~in Little Havana.
+WFARE4	~g~Destination ~w~hidden alley behind a wall ~g~in Little Haiti.
+WFARE5	~g~Destination ~w~lower blue 'Police Station' roof ~g~in Little Havana.
+WFARE6	~g~Destination ~w~on top of 'The Greasy Chopper' ~g~in Downtown.
+WFARE7	~g~Destination ~w~the yard behind 'Cherry Poppers' ~g~in Little Havana.
+WFARE8	~g~Destination ~w~'Hospital' roof ~g~in Downtown.
+WFARE9	~g~Destination ~w~green roof opposite 'Well Stacked' ~g~in Downtown.
