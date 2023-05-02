@@ -1,11 +1,22 @@
-GXT Editor 1.0 Section
-RCRACE1
-7
+[RCRACE1]
+;RCR1_1=~g~Compete in a checkpoint race with the 3 RC Injections.
+RCR1_1=~g~Compete in a checkpoint race with the 3 RC Injections.
 
-RCR1_1	~g~Compete in a checkpoint race with the 3 RC Injections.
-RCR1_2	~g~Be the first to the finish line in one piece to win!
-RCR1_4	laps left:
-RCR1_6	~g~Your RC Car is going out of range!
-RCR1_7	~r~Your RC Car went out of range!
-RCRC1_1	~g~RC Injection delivered to Ocean View Hotel.
-RCRC1_3	~g~Gaming!
+;RCR1_2=~g~Be the first to the finish line in one piece to win!
+RCR1_2=~g~Be the first to the finish line in one piece to win!
+
+;RCR1_4=laps left:
+RCR1_4=laps left:
+
+;RCR1_6=~g~Your RC Car is going out of range!
+RCR1_6=~g~Your RC Car is going out of range!
+
+;RCR1_7=~r~Your RC Car went out of range!
+RCR1_7=~r~Your RC Car went out of range!
+
+;RCRC1_1=~g~RC Injection delivered to Ocean View Hotel.
+RCRC1_1=~g~RC Injection delivered to Ocean View Hotel.
+
+;RCRC1_3=~g~Gaming!
+RCRC1_3=~g~Gaming!
+

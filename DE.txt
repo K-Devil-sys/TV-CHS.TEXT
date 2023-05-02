@@ -1,0 +1,81 @@
+;DAYPLC=Daily police spending
+DAYPLC=Daily police spending
+
+;DAYSPS=Days passed in game
+DAYSPS=Days passed in game
+
+;DBINST=Double insane stunt
+DBINST=Double insane stunt
+
+;DBPINS=Perfect double insane stunt
+DBPINS=Perfect double insane stunt
+
+;DEAD=MURKED!
+DEAD=MURKED!
+
+;DEC=Dec
+DEC=Dec
+
+;DED_CRI=Criminals wasted
+DED_CRI=Criminals wasted
+
+;DEFDT=--:---:---- --:--:--
+DEFDT=--:---:---- --:--:--
+
+;DELUXO=Deluxo
+DELUXO=Deluxo
+
+;DESPERA=Desperado
+DESPERA=Desperado
+
+;DINGHY=Dinghy
+DINGHY=Dinghy
+
+;DIRTRNG=SAND TRAP
+DIRTRNG=SAND TRAP
+
+;DISTBIK=Dist. traveled by bike (miles)
+DISTBIK=Dist. traveled by bike (miles)
+
+;DISTBIM=Distance traveled by bike (m)
+DISTBIM=Distance traveled by bike (m)
+
+;DISTBOA=Dist. traveled by boat (miles)
+DISTBOA=Dist. traveled by boat (miles)
+
+;DISTBOM=Distance traveled by boat (m)
+DISTBOM=Distance traveled by boat (m)
+
+;DISTGOL=Dist. traveled by golf cart (miles)
+DISTGOL=Dist. traveled by golf cart (miles)
+
+;DISTGOM=Distance traveled by golf cart (m)
+DISTGOM=Distance traveled by golf cart (m)
+
+;DISTHEL=Dist. traveled by helicopter (miles)
+DISTHEL=Dist. traveled by helicopter (miles)
+
+;DISTHEM=Distance traveled by helicopter (m)
+DISTHEM=Distance traveled by helicopter (m)
+
+;DOCKS=Viceport
+DOCKS=Viceport
+
+;DODO=Dodo
+DODO=Dodo
+
+;DODO_FT=You flew for ~1~ seconds!
+DODO_FT=You flew for ~1~ seconds!
+
+;DTOWN=Downtown
+DTOWN=Downtown
+
+;ENFORCR=Enforcer
+ENFORCR=Enforcer
+
+;ESPERAN=Esperanto
+ESPERAN=Esperanto
+
+;EXIT_1=Press the ~h~~k~~PED_SPRINT~ ~w~button to exit.
+EXIT_1=Press the ~h~~k~~PED_SPRINT~ ~w~button to exit.
+

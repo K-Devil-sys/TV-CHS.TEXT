@@ -1,0 +1,177 @@
+;T4X4_1='PCJ Purgatory'
+T4X4_1='PCJ Purgatory'
+
+;T4X4_3='GRIPPED!'
+T4X4_3='GRIPPED!'
+
+;T4X4_F=~r~You bailed! Too tough for you?!
+T4X4_F=~r~You bailed! Too tough for you?!
+
+;TAX2_4=Go on, Tommy.
+TAX2_4=Go on, Tommy.
+
+;TAX2_5=Beat the hell out of him.
+TAX2_5=Beat the hell out of him.
+
+;TAX2_6=He hasn't even got a license.
+TAX2_6=He hasn't even got a license.
+
+;TAX2_7=Damn limo services.
+TAX2_7=Damn limo services.
+
+;TAXI=Taxi
+TAXI=Taxi
+
+;TAXI2=~r~You're out of time!
+TAXI2=~r~You're out of time!
+
+;TAXIBUY=Taxi Firm purchased: $~1~
+TAXIBUY=Taxi Firm purchased: $~1~
+
+;TAXI_1=V.I.P.
+TAXI_1=V.I.P.
+
+;TAXI_2=Friendly Rivalry
+TAXI_2=Friendly Rivalry
+
+;TAXI_3=Cabmaggedon
+TAXI_3=Cabmaggedon
+
+;TAXI_C=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase the Taxi Company for $~1~
+TAXI_C=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase the Taxi Company for $~1~
+
+;TAXI_L=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase the Taxi Company for $~1~
+TAXI_L=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase the Taxi Company for $~1~
+
+;TAXI_M='GymnasTaxi'
+TAXI_M='GymnasTaxi'
+
+;TAXI_NO=You cannot buy the Taxi Company at this time, come back later.
+TAXI_NO=You cannot buy the Taxi Company at this time, come back later.
+
+;TAXI_T=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase the Taxi Company for $~1~
+TAXI_T=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase the Taxi Company for $~1~
+
+;TAXSHRT=~g~You can use this Kaufman Cab to take you to destinations instead of driving. It will cost you $9.
+TAXSHRT=~g~You can use this Kaufman Cab to take you to destinations instead of driving. It will cost you $9.
+
+;TAXW1_5=~g~You need to be in a Kaufman cab!
+TAXW1_5=~g~You need to be in a Kaufman cab!
+
+;TAXW3_1=~g~Go and pick up Mercedes.
+TAXW3_1=~g~Go and pick up Mercedes.
+
+;TAXWAR=TAXI WAR MISSIONS
+TAXWAR=TAXI WAR MISSIONS
+
+;TAX_1=Kaufman Cabs
+TAX_1=Kaufman Cabs
+
+;TEC9=Tec 9
+TEC9=Tec 9
+
+;TEX1_5=~r~He got away!
+TEX1_5=~r~He got away!
+
+;TEX3_9=~g~Pickup a bomb by maneuvering the RC plane over to it.
+TEX3_9=~g~Pickup a bomb by maneuvering the RC plane over to it.
+
+;TEXTXYZ=Writing coordinates to file...
+TEXTXYZ=Writing coordinates to file...
+
+;TEX_1=4 Iron, 5Head
+TEX_1=4 Iron, 5Head
+
+;TEX_2=Two Bit Hit
+TEX_2=Two Bit Hit
+
+;TEX_3=Welcome to WatchMojo
+TEX_3=Welcome to WatchMojo
+
+;THIRD=~b~3rd
+THIRD=~b~3rd
+
+;TIMER=This is a timed mission, you must complete it before the timer counts down to zero.
+TIMER=This is a timed mission, you must complete it before the timer counts down to zero.
+
+;TMANS=Vercetti Estate
+TMANS=Vercetti Estate
+
+;TM_BUST=Times busted
+TM_BUST=Times busted
+
+;TM_DED=Hospital visits
+TM_DED=Hospital visits
+
+;TOPFUN=Top Fun
+TOPFUN=Top Fun
+
+;TOP_SHO=Top Shooting Range Score
+TOP_SHO=Top Shooting Range Score
+
+;TOTDISM=Total distance traveled (m)
+TOTDISM=Total distance traveled (m)
+
+;TOT_DIS=Total distance traveled (miles)
+TOT_DIS=Total distance traveled (miles)
+
+;TRASHM=Trashmaster
+TRASHM=Trashmaster
+
+;TRINST=Triple insane stunt
+TRINST=Triple insane stunt
+
+;TROPIC=Tropic
+TROPIC=Tropic
+
+;TSCORE=EARNINGS: $~1~
+TSCORE=EARNINGS: $~1~
+
+;TTUTOR=Press the ~h~~k~~TOGGLE_SUBMISSIONS~ button~w~ to toggle taxi missions on or off.
+TTUTOR=Press the ~h~~k~~TOGGLE_SUBMISSIONS~ button~w~ to toggle taxi missions on or off.
+
+;TTUTOR2=Press the ~h~~k~~TOGGLE_SUBMISSIONS~ button~w~ to toggle taxi missions on or off.
+TTUTOR2=Press the ~h~~k~~TOGGLE_SUBMISSIONS~ button~w~ to toggle taxi missions on or off.
+
+;TYREPOP=Tires popped with gunfire
+TYREPOP=Tires popped with gunfire
+
+;TYRESLA=Tires slashed with a blade
+TYRESLA=Tires slashed with a blade
+
+;UMBERTO=Cafe Robina
+UMBERTO=Cafe Robina
+
+;USJ=UNIQUE STUNT BONUS!
+USJ=UNIQUE STUNT BONUS!
+
+;USJ_ALL=ALL UNIQUE STUNTS COMPLETED!
+USJ_ALL=ALL UNIQUE STUNTS COMPLETED!
+
+;UZI=Uz-1
+UZI=Uz-1
+
+;VCNMAV=VCN Maverick
+VCNMAV=VCN Maverick
+
+;VCPTBUY=101 Bayshore Avenue purchased: $~1~
+VCPTBUY=101 Bayshore Avenue purchased: $~1~
+
+;VCPT_C=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase 3321 Vice Point for $~1~
+VCPT_C=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase 3321 Vice Point for $~1~
+
+;VCPT_L=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase 101 Bayshore Avenue for $~1~
+VCPT_L=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase 101 Bayshore Avenue for $~1~
+
+;VCPT_T=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase 3321 Vice Point for $~1~
+VCPT_T=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase 3321 Vice Point for $~1~
+
+;VICE_C=Vice City
+VICE_C=Vice City
+
+;VIRGO=Virgo
+VIRGO=Virgo
+
+;VOODOO=Voodoo
+VOODOO=Voodoo
+

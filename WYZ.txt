@@ -1,0 +1,144 @@
+;WALTON=Walton
+WALTON=Walton
+
+;WANT_A=You will only be arrested if you have a ~h~wanted level.
+WANT_A=You will only be arrested if you have a ~h~wanted level.
+
+;WANT_B=Your ~h~wanted level~w~ is represented by the row of stars in the top right of the screen.
+WANT_B=Your ~h~wanted level~w~ is represented by the row of stars in the top right of the screen.
+
+;WANT_C=You now have a ~h~wanted level~w~ of one...
+WANT_C=You now have a ~h~wanted level~w~ of one...
+
+;WANT_D=two...
+WANT_D=two...
+
+;WANT_E=three...
+WANT_E=three...
+
+;WANT_F=As your ~h~wanted level~w~ increases you will attract more powerful forms of law enforcement.
+WANT_F=As your ~h~wanted level~w~ increases you will attract more powerful forms of law enforcement.
+
+;WANT_G=~g~JAILBREAK!
+WANT_G=~g~JAILBREAK!
+
+;WANT_H=The cops will take all your weapons and some of your cash as a bribe.
+WANT_H=The cops will take all your weapons and some of your cash as a bribe.
+
+;WANT_I=Any mission you were on will be failed.
+WANT_I=Any mission you were on will be failed.
+
+;WANT_J=You will find ways of reducing your wanted level the more you play.
+WANT_J=You will find ways of reducing your wanted level the more you play.
+
+;WANT_K=If you are in a car, ~h~SPRAY SHOPS~w~ will ~h~clear your wanted level.
+WANT_K=If you are in a car, ~h~SPRAY SHOPS~w~ will ~h~clear your wanted level.
+
+;WANT_L=Your wanted level has been suspended, if you commit a crime whilst the stars are flashing your full wanted level will be reinstated.
+WANT_L=Your wanted level has been suspended, if you commit a crime whilst the stars are flashing your full wanted level will be reinstated.
+
+;WASHBUY=1102 Washington Street purchased: $~1~
+WASHBUY=1102 Washington Street purchased: $~1~
+
+;WASHING=Washington
+WASHING=Washington
+
+;WASH_C=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase 1102 Washington Street for $~1~
+WASH_C=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase 1102 Washington Street for $~1~
+
+;WASH_L=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase 1102 Washington Street for $~1~
+WASH_L=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase 1102 Washington Street for $~1~
+
+;WASH_T=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase 1102 Washington Street for $~1~
+WASH_T=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase 1102 Washington Street for $~1~
+
+;WEATHE1=FORCE WEATHER SUNNY
+WEATHE1=FORCE WEATHER SUNNY
+
+;WEATHE2=FORCE WEATHER EXTRA SUNNY
+WEATHE2=FORCE WEATHER EXTRA SUNNY
+
+;WEATHE3=FORCE WEATHER CLOUDY
+WEATHE3=FORCE WEATHER CLOUDY
+
+;WEATHE4=FORCE WEATHER RAINY
+WEATHE4=FORCE WEATHER RAINY
+
+;WEATHE5=FORCE WEATHER FOGGY
+WEATHE5=FORCE WEATHER FOGGY
+
+;WEATHE6=WEATHER NORMAL
+WEATHE6=WEATHER NORMAL
+
+;WELCOME=WELCOME TO
+WELCOME=WELCOME TO
+
+;WHEEL01=TWO WHEELS DOUBLE BONUS: $ ~1~ Distance: ~1~.~1~m Time: ~1~ seconds
+WHEEL01=TWO WHEELS DOUBLE BONUS: $ ~1~ Distance: ~1~.~1~m Time: ~1~ seconds
+
+;WHEEL02=TWO WHEELS DOUBLE BONUS: $ ~1~ Distance: ~1~ feet Time: ~1~ seconds
+WHEEL02=TWO WHEELS DOUBLE BONUS: $ ~1~ Distance: ~1~ feet Time: ~1~ seconds
+
+;WHEEL03=TWO WHEELS BONUS: $ ~1~ Time: ~1~ seconds
+WHEEL03=TWO WHEELS BONUS: $ ~1~ Time: ~1~ seconds
+
+;WHEEL04=TWO WHEELS BONUS: $ ~1~ Distance: ~1~.~1~m
+WHEEL04=TWO WHEELS BONUS: $ ~1~ Distance: ~1~.~1~m
+
+;WHEEL05=TWO WHEELS BONUS: $ ~1~ Distance: ~1~ feet
+WHEEL05=TWO WHEELS BONUS: $ ~1~ Distance: ~1~ feet
+
+;WHEEL06=WHEELIE BONUS: $ ~1~ Distance: ~1~.~1~m Time: ~1~ seconds
+WHEEL06=WHEELIE BONUS: $ ~1~ Distance: ~1~.~1~m Time: ~1~ seconds
+
+;WHEEL07=WHEELIE BONUS: $ ~1~ Distance: ~1~ feet Time: ~1~ seconds
+WHEEL07=WHEELIE BONUS: $ ~1~ Distance: ~1~ feet Time: ~1~ seconds
+
+;WHEEL08=WHEELIE BONUS: $ ~1~ Time: ~1~ seconds
+WHEEL08=WHEELIE BONUS: $ ~1~ Time: ~1~ seconds
+
+;WHEEL09=WHEELIE BONUS: $ ~1~ Distance: ~1~.~1~m
+WHEEL09=WHEELIE BONUS: $ ~1~ Distance: ~1~.~1~m
+
+;WHEEL10=WHEELIE BONUS: $ ~1~ Distance: ~1~ feet
+WHEEL10=WHEELIE BONUS: $ ~1~ Distance: ~1~ feet
+
+;WHEEL11=STOPPIE BONUS: $ ~1~ Distance: ~1~.~1~m Time: ~1~ seconds
+WHEEL11=STOPPIE BONUS: $ ~1~ Distance: ~1~.~1~m Time: ~1~ seconds
+
+;WHEEL12=STOPPIE BONUS: $ ~1~ Distance: ~1~ feet Time: ~1~ seconds
+WHEEL12=STOPPIE BONUS: $ ~1~ Distance: ~1~ feet Time: ~1~ seconds
+
+;WHEEL13=STOPPIE BONUS: $ ~1~ Time: ~1~ seconds
+WHEEL13=STOPPIE BONUS: $ ~1~ Time: ~1~ seconds
+
+;WHEEL14=STOPPIE BONUS: $ ~1~ Distance: ~1~.~1~m
+WHEEL14=STOPPIE BONUS: $ ~1~ Distance: ~1~.~1~m
+
+;WHEEL15=STOPPIE BONUS: $ ~1~ Distance: ~1~ feet
+WHEEL15=STOPPIE BONUS: $ ~1~ Distance: ~1~ feet
+
+;WHOOPEE=Mr. Whoopee
+WHOOPEE=Mr. Whoopee
+
+;WIN_95=Grand Theft Auto VC cannot run on Windows 95
+WIN_95=Grand Theft Auto VC cannot run on Windows 95
+
+;WIN_DX=Grand Theft Auto VC requires at least DirectX version 8.1
+WIN_DX=Grand Theft Auto VC requires at least DirectX version 8.1
+
+;WIN_TTL=Grand Theft Auto VC
+WIN_TTL=Grand Theft Auto VC
+
+;WIN_VDM=Grand Theft Auto VC cannot find enough available video memory
+WIN_VDM=Grand Theft Auto VC cannot find enough available video memory
+
+;WRONGCD=Incorrect disc. Please insert correct disc.
+WRONGCD=Incorrect disc. Please insert correct disc.
+
+;YANKEE=Yankee
+YANKEE=Yankee
+
+;ZEBRA=ZeeBruh!
+ZEBRA=ZeeBruh!
+

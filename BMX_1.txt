@@ -1,5 +1,4 @@
-GXT Editor 1.0 Section
-BMX_1
-1
+[BMX_1]
+;GETBIK2=~r~You have ~w~~1~ seconds ~g~to get on a Dirt Bike!
+GETBIK2=~r~You have ~w~~1~ seconds ~g~to get on a Dirt Bike!
 
-GETBIK2	~r~You have ~w~~1~ seconds ~g~to get on a Dirt Bike!

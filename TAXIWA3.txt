@@ -1,13 +1,28 @@
-GXT Editor 1.0 Section
-TAXIWA3
-9
+[TAXIWA3]
+;TAX3_1=Car 13, We got a Miss Cortez, asked for you especially.
+TAX3_1=Car 13, We got a Miss Cortez, asked for you especially.
 
-TAX3_1	Car 13, We got a Miss Cortez, asked for you especially.
-TAX3_2	Ok, I got it. Car 13 out!
-TAX3_3	Mercedes changed her mind, might as well go home!
-TAX3_4	It's time for Kaufman Cab's guardian angel to eat some fender!
-TAX3_5	Hey boy I'm gonna tan your hide!
-TAXW3_2	~g~Stay alive until the timer runs out.
-TAXW3_3	~g~Take out the leader cab!
-TAX_AS1	TAXI FIRM ASSET COMPLETED
-TAX_AS2	~g~Kaufman Cabs will now generate revenue up to a maximum of $~1~. Make sure you collect it regularly.
+;TAX3_2=Ok, I got it. Car 13 out!
+TAX3_2=Ok, I got it. Car 13 out!
+
+;TAX3_3=Mercedes changed her mind, might as well go home!
+TAX3_3=Mercedes changed her mind, might as well go home!
+
+;TAX3_4=It's time for Kaufman Cab's guardian angel to eat some fender!
+TAX3_4=It's time for Kaufman Cab's guardian angel to eat some fender!
+
+;TAX3_5=Hey boy I'm gonna tan your hide!
+TAX3_5=Hey boy I'm gonna tan your hide!
+
+;TAXW3_2=~g~Stay alive until the timer runs out.
+TAXW3_2=~g~Stay alive until the timer runs out.
+
+;TAXW3_3=~g~Take out the leader cab!
+TAXW3_3=~g~Take out the leader cab!
+
+;TAX_AS1=TAXI FIRM ASSET COMPLETED
+TAX_AS1=TAXI FIRM ASSET COMPLETED
+
+;TAX_AS2=~g~Kaufman Cabs will now generate revenue up to a maximum of $~1~. Make sure you collect it regularly.
+TAX_AS2=~g~Kaufman Cabs will now generate revenue up to a maximum of $~1~. Make sure you collect it regularly.
+

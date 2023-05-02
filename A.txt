@@ -1,0 +1,202 @@
+[MAIN]
+;ACCURA=Accuracy
+ACCURA=Accuracy
+
+;ADMIRAL=Admiral
+ADMIRAL=Admiral
+
+;AMBULAN=Ambulance
+AMBULAN=Ambulance
+
+;AMBUL_M='PARAMEDIC'
+AMBUL_M='PARAMEDIC'
+
+;AMMU=Go inside Ammu-Nation to buy a weapon.
+AMMU=Go inside Ammu-Nation to buy a weapon.
+
+;AMMUHLP=If you need any weapons visit ~h~Ammu-Nation~w~. Follow the ~h~Gun blip~w~ on the radar.
+AMMUHLP=If you need any weapons visit ~h~Ammu-Nation~w~. Follow the ~h~Gun blip~w~ on the radar.
+
+;ANGEL=Angel
+ANGEL=Angel
+
+;ANSWER=Press the ~h~~k~~PED_ANSWER_PHONE~~w~ to answer your cell phone.
+ANSWER=Press the ~h~~k~~PED_ANSWER_PHONE~~w~ to answer your cell phone.
+
+;APACHE=Hunter delivered to helipad in Ocean Beach.
+APACHE=Hunter delivered to helipad in Ocean Beach.
+
+;APR=Apr
+APR=Apr
+
+;ARMOUR=Body Armor
+ARMOUR=Body Armor
+
+;ASM=ASSASSIN MISSIONS
+ASM=ASSASSIN MISSIONS
+
+;ASM1_1=~g~Mr. Teal, your help in eradicating those out-of-towners was invaluable to business. I have more work for you with a more 'hands-on' approach. Your next job is taped under the phone.
+ASM1_1=~g~Mr. Teal, your help in eradicating those out-of-towners was invaluable to business. I have more work for you with a more 'hands-on' approach. Your next job is taped under the phone.
+
+;ASM1_2=~g~Get to the payphone outside the Mall in Washington.
+ASM1_2=~g~Get to the payphone outside the Mall in Washington.
+
+;ASM1_3=~g~Carl Pearson, Pizza Delivery Man. He must not complete his deliveries.
+ASM1_3=~g~Carl Pearson, Pizza Delivery Man. He must not complete his deliveries.
+
+;ASM1_4=~g~Kill the Pizza Delivery Man before he completes his deliveries.
+ASM1_4=~g~Kill the Pizza Delivery Man before he completes his deliveries.
+
+;ASM1_B=Your next job is taped under the phone.
+ASM1_B=Your next job is taped under the phone.
+
+;ASM1_C=I have more work for you with a more 'hands-on' approach.
+ASM1_C=I have more work for you with a more 'hands-on' approach.
+
+;ASM3_1=~g~Go and get the weapon Mr. Black has left for you.
+ASM3_1=~g~Go and get the weapon Mr. Black has left for you.
+
+;ASM3_10=~r~You failed to kill them all.
+ASM3_10=~r~You failed to kill them all.
+
+;ASM3_2=~g~Don't get too close to the target or he may spot you!
+ASM3_2=~g~Don't get too close to the target or he may spot you!
+
+;ASM3_3=~g~For a quick safe kill find a secluded spot nearby with a clear view of your target.
+ASM3_3=~g~For a quick safe kill find a secluded spot nearby with a clear view of your target.
+
+;ASM3_4=~g~He's seen you! Better waste him any way you can!
+ASM3_4=~g~He's seen you! Better waste him any way you can!
+
+;ASM3_5=~g~Marcus Hammond is working on an advertising board in Washington.
+ASM3_5=~g~Marcus Hammond is working on an advertising board in Washington.
+
+;ASM3_6=~g~Franco Carter is working for DBP Security off Ocean Drive.
+ASM3_6=~g~Franco Carter is working for DBP Security off Ocean Drive.
+
+;ASM3_7=~g~Dick Tanner is situated near the Jewelry shop in Vice Point.
+ASM3_7=~g~Dick Tanner is situated near the Jewelry shop in Vice Point.
+
+;ASM3_8=~g~Nick Kong is situated near Washington Beach.
+ASM3_8=~g~Nick Kong is situated near Washington Beach.
+
+;ASM3_9=~g~Stuntman Driver is situated in Washington.
+ASM3_9=~g~Stuntman Driver is situated in Washington.
+
+;ASM3_A=TEXT NO LONGER NEEDED
+ASM3_A=TEXT NO LONGER NEEDED
+
+;ASM3_B=TEXT NO LONGER NEEDED
+ASM3_B=TEXT NO LONGER NEEDED
+
+;ASM4_1=~g~Go get the rifle left for you in the foliage outside the airport terminal.
+ASM4_1=~g~Go get the rifle left for you in the foliage outside the airport terminal.
+
+;ASM4_11=~r~The target has seen you! The deal is off!
+ASM4_11=~r~The target has seen you! The deal is off!
+
+;ASM4_13=~g~He's spotted you and is making a run for it, nail him and get the briefcase!
+ASM4_13=~g~He's spotted you and is making a run for it, nail him and get the briefcase!
+
+;ASM4_14=~g~The distance bar in the upper right of the screen gives you an indication to how close you are to your target do not let it fill or he will see you.
+ASM4_14=~g~The distance bar in the upper right of the screen gives you an indication to how close you are to your target do not let it fill or he will see you.
+
+;ASM4_2=~g~Don't miss your target or you may alert his bodyguards, and remember keep your distance so he does not spot you.
+ASM4_2=~g~Don't miss your target or you may alert his bodyguards, and remember keep your distance so he does not spot you.
+
+;ASM4_24=distance:
+ASM4_24=distance:
+
+;ASM4_3=~g~Watch the woman on the balcony above the check-in desks inside the airport terminal. DO NOT KILL HER.
+ASM4_3=~g~Watch the woman on the balcony above the check-in desks inside the airport terminal. DO NOT KILL HER.
+
+;ASM4_4=~g~Kill the man she hands the briefcase to but only AFTER HE PICKS IT UP. Then retrieve the briefcase and take it to Ammu-Nation in Downtown.
+ASM4_4=~g~Kill the man she hands the briefcase to but only AFTER HE PICKS IT UP. Then retrieve the briefcase and take it to Ammu-Nation in Downtown.
+
+;ASM4_5=~g~Get the briefcase!
+ASM4_5=~g~Get the briefcase!
+
+;ASM4_6=~g~Take the briefcase to Ammu-Nation in Downtown.
+ASM4_6=~g~Take the briefcase to Ammu-Nation in Downtown.
+
+;ASM4_7=~r~You killed the woman, you fool!
+ASM4_7=~r~You killed the woman, you fool!
+
+;ASM4_8=~r~The target heard you firing your weapon! The deal is off!
+ASM4_8=~r~The target heard you firing your weapon! The deal is off!
+
+;ASM4_9=~r~The target has boarded his flight!
+ASM4_9=~r~The target has boarded his flight!
+
+;ASM_1=ASSASSIN MISSION 1
+ASM_1=ASSASSIN MISSION 1
+
+;ASM_2=ASSASSIN MISSION 2
+ASM_2=ASSASSIN MISSION 2
+
+;ASM_3=ASSASSIN MISSION 3
+ASM_3=ASSASSIN MISSION 3
+
+;ASM_4=ASSASSIN MISSION 4
+ASM_4=ASSASSIN MISSION 4
+
+;ASM_5=ASSASSIN MISSION 5
+ASM_5=ASSASSIN MISSION 5
+
+;ASS1_10=Hey, this is a real nice herbaceous border
+ASS1_10=Hey, this is a real nice herbaceous border
+
+;ASS1_11=Hey Tommy, can my room have a view of the bay?
+ASS1_11=Hey Tommy, can my room have a view of the bay?
+
+;ASS1_12=Beautiful high ceilings in here...
+ASS1_12=Beautiful high ceilings in here...
+
+;ASS1_3=Lance! I need cover!
+ASS1_3=Lance! I need cover!
+
+;ASS1_4=Diaz must be inside!
+ASS1_4=Diaz must be inside!
+
+;ASS1_5=Lance!
+ASS1_5=Lance!
+
+;ASS1_6=Go on Tommy, I'll be ok!
+ASS1_6=Go on Tommy, I'll be ok!
+
+;ASS1_7=Eat this, you murdering bastards!!
+ASS1_7=Eat this, you murdering bastards!!
+
+;ASS1_8=I'm pinned down!
+ASS1_8=I'm pinned down!
+
+;ASS1_9=I got you covered Tommy!
+ASS1_9=I got you covered Tommy!
+
+;ASSET_C=POLE POSITION ASSET COMPLETED!
+ASSET_C=POLE POSITION ASSET COMPLETED!
+
+;ASSET_D=~g~The Pole Position Club will now generate revenue up to a maximum of $~1~ per day. Pick up your cash regularly!
+ASSET_D=~g~The Pole Position Club will now generate revenue up to a maximum of $~1~ per day. Pick up your cash regularly!
+
+;ASS_1=Rub Out
+ASS_1=Rub Out
+
+;ATUTOR=Press the ~h~~k~~TOGGLE_SUBMISSIONS~ ~w~button to toggle Paramedic missions on or off.
+ATUTOR=Press the ~h~~k~~TOGGLE_SUBMISSIONS~ ~w~button to toggle Paramedic missions on or off.
+
+;ATUTOR3=Press the ~h~~k~~TOGGLE_SUBMISSIONS~ button~w~ to toggle Paramedic missions on or off.
+ATUTOR3=Press the ~h~~k~~TOGGLE_SUBMISSIONS~ button~w~ to toggle Paramedic missions on or off.
+
+;AUG=Aug
+AUG=Aug
+
+;AVERY=AVERY MISSIONS
+AVERY=AVERY MISSIONS
+
+;A_PORT=Escobar International
+A_PORT=Escobar International
+
+;A_TIME=+~1~ seconds
+A_TIME=+~1~ seconds
+

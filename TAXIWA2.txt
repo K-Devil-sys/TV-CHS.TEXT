@@ -1,8 +1,13 @@
-GXT Editor 1.0 Section
-TAXIWA2
-4
+[TAXIWA2]
+;TAX2_1=Calling all cars, we're losing fares all over town. What's with you guys?
+TAX2_1=Calling all cars, we're losing fares all over town. What's with you guys?
 
-TAX2_1	Calling all cars, we're losing fares all over town. What's with you guys?
-TAX2_2	VC Cabs keep beating us to it. They've just got too many cars - we can't compete!
-TAX2_3	Mr. Vercetti, if you're out there listening in, you gotta put some VC Cabs out of action before we go bust!
-TAXW2_1	~g~Destroy 3 of the rival taxis!
+;TAX2_2=VC Cabs keep beating us to it. They've just got too many cars - we can't compete!
+TAX2_2=VC Cabs keep beating us to it. They've just got too many cars - we can't compete!
+
+;TAX2_3=Mr. Vercetti, if you're out there listening in, you gotta put some VC Cabs out of action before we go bust!
+TAX2_3=Mr. Vercetti, if you're out there listening in, you gotta put some VC Cabs out of action before we go bust!
+
+;TAXW2_1=~g~Destroy 3 of the rival taxis!
+TAXW2_1=~g~Destroy 3 of the rival taxis!
+

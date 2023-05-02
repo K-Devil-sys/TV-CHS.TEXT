@@ -1,0 +1,111 @@
+;NBMNBUY=El Swanko Casa purchased: $~1~
+NBMNBUY=El Swanko Casa purchased: $~1~
+
+;NBMN_C=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase El Swanko Casa for $~1~
+NBMN_C=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase El Swanko Casa for $~1~
+
+;NBMN_L=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase El Swanko Casa for $~1~
+NBMN_L=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase El Swanko Casa for $~1~
+
+;NBMN_T=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase El Swanko Casa for $~1~
+NBMN_T=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase El Swanko Casa for $~1~
+
+;NEWCONT=New ~h~Contact Point ~w~opened at the marina in Ocean Beach!!
+NEWCONT=New ~h~Contact Point ~w~opened at the marina in Ocean Beach!!
+
+;NEW_REC=~g~New Record Set!! ~w~~1~ minutes ~g~and ~w~~1~ seconds.
+NEW_REC=~g~New Record Set!! ~w~~1~ minutes ~g~and ~w~~1~ seconds.
+
+;NITRO=The Ya Ya Taxi has been delivered to Kaufman Cabs!
+NITRO=The Ya Ya Taxi has been delivered to Kaufman Cabs!
+
+;NMISON=Mission attempts
+NMISON=Mission attempts
+
+;NOCD=The disc tray is empty. Please insert disc.
+NOCD=The disc tray is empty. Please insert disc.
+
+;NOMONEY=~g~You need more cash!
+NOMONEY=~g~You need more cash!
+
+;NOSTUC=No INSANE stunts completed
+NOSTUC=No INSANE stunts completed
+
+;NOTAXI=~g~You need a Kaufman Cab to activate this mission.
+NOTAXI=~g~You need a Kaufman Cab to activate this mission.
+
+;NOUNIF=Unique Jumps completed
+NOUNIF=Unique Jumps completed
+
+;NOV=Nov
+NOV=Nov
+
+;NO_PCCD=Please insert your GTA Vice City CD, or press ESC to cancel
+NO_PCCD=Please insert your GTA Vice City CD, or press ESC to cancel
+
+;NUMBER=~1~
+NUMBER=~1~
+
+;NUMSHV=Safehouse visits
+NUMSHV=Safehouse visits
+
+;OCEANIC=Oceanic
+OCEANIC=Oceanic
+
+;OCHEBUY=Ocean Heights Apartment purchased: $~1~
+OCHEBUY=Ocean Heights Apartment purchased: $~1~
+
+;OCHE_C=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase Ocean Heights Apartment for $~1~
+OCHE_C=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase Ocean Heights Apartment for $~1~
+
+;OCHE_L=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase Ocean Heights Apartment for $~1~
+OCHE_L=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase Ocean Heights Apartment for $~1~
+
+;OCHE_T=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase Ocean Heights Apartment for $~1~
+OCHE_T=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase Ocean Heights Apartment for $~1~
+
+;OCT=Oct
+OCT=Oct
+
+;OPENCD=The disc tray is open. Please close the disc tray.
+OPENCD=The disc tray is open. Please close the disc tray.
+
+;OUTFT1=Street
+OUTFT1=Street
+
+;OUTFT10=Tracksuit
+OUTFT10=Tracksuit
+
+;OUTFT11=Tracksuit
+OUTFT11=Tracksuit
+
+;OUTFT12=VC Enjoyer
+OUTFT12=VC Enjoyer
+
+;OUTFT13=MC Tommy
+OUTFT13=MC Tommy
+
+;OUTFT2=Soiree
+OUTFT2=Soiree
+
+;OUTFT3=Coveralls
+OUTFT3=Coveralls
+
+;OUTFT4=Country Club
+OUTFT4=Country Club
+
+;OUTFT5=Havana
+OUTFT5=Havana
+
+;OUTFT6=Cop
+OUTFT6=Cop
+
+;OUTFT7=Bank Job
+OUTFT7=Bank Job
+
+;OUTFT8=Casual
+OUTFT8=Casual
+
+;OUTFT9=Mr Vercetti
+OUTFT9=Mr Vercetti
+

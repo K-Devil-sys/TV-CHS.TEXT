@@ -1,0 +1,510 @@
+;SABRE=Sabre
+SABRE=Sabre
+
+;SABRETU=Sabre Turbo
+SABRETU=Sabre Turbo
+
+;SANCHEZ=Sanchez
+SANCHEZ=Sanchez
+
+;SANDKIN=Sandking
+SANDKIN=Sandking
+
+;SAVE1=Walk into the corona to ~h~Save the game~w~. You cannot save during a mission.
+SAVE1=Walk into the corona to ~h~Save the game~w~. You cannot save during a mission.
+
+;SAVE2=Any vehicle left in this garage will be stored when the game is saved.
+SAVE2=Any vehicle left in this garage will be stored when the game is saved.
+
+;SCARF=Apartment 3c
+SCARF=Apartment 3c
+
+;SCREWD=Screwdriver
+SCREWD=Screwdriver
+
+;SEAGULL=Seagulls Sniped
+SEAGULL=Seagulls Sniped
+
+;SEASPAR=Sea Sparrow
+SEASPAR=Sea Sparrow
+
+;SECOND=~b~2nd
+SECOND=~b~2nd
+
+;SECURI=Securicar
+SECURI=Securicar
+
+;SEG3_1=TIME:
+SEG3_1=TIME:
+
+;SEG3_10=~g~You hit the target! 2 more to go.
+SEG3_10=~g~You hit the target! 2 more to go.
+
+;SEG3_11=~g~You hit the target! Just 1 more to go!
+SEG3_11=~g~You hit the target! Just 1 more to go!
+
+;SEG3_12=~r~You missed the target! Go get a bomb!
+SEG3_12=~r~You missed the target! Go get a bomb!
+
+;SEG3_13=~g~Drop the bomb at a target zone.
+SEG3_13=~g~Drop the bomb at a target zone.
+
+;SEG3_14=~r~You ran out of time and failed to demolish the building.
+SEG3_14=~r~You ran out of time and failed to demolish the building.
+
+;SEG3_15=~r~Your RC Raider has been destroyed! How you gonna transport the bombs now?
+SEG3_15=~r~Your RC Raider has been destroyed! How you gonna transport the bombs now?
+
+;SEG3_2=~g~Get to the van that contains the RC Raider and remote timed bombs.
+SEG3_2=~g~Get to the van that contains the RC Raider and remote timed bombs.
+
+;SEG3_3=~g~You must use the RC RAIDER to transport 4 bombs to 4 target zones on the building site.
+SEG3_3=~g~You must use the RC RAIDER to transport 4 bombs to 4 target zones on the building site.
+
+;SEG3_4=~g~You can pick up bombs by simply piloting your RC Raider adjacent to each one, to drop a bomb press the ~h~~k~~PED_FIREWEAPON~ ~g~button.
+SEG3_4=~g~You can pick up bombs by simply piloting your RC Raider adjacent to each one, to drop a bomb press the ~h~~k~~PED_FIREWEAPON~ ~g~button.
+
+;SEG3_6=~g~To successfully hit a target zone, you must drop the bomb in the area represented by the ~q~pink marker~w~. You can drop the bombs in any order.
+SEG3_6=~g~To successfully hit a target zone, you must drop the bomb in the area represented by the ~q~pink marker~w~. You can drop the bombs in any order.
+
+;SEG3_7=~g~Once you have dropped the FIRST bomb successfully in a target zone the detonation timer will start; you must then drop all the bombs within this time period.
+SEG3_7=~g~Once you have dropped the FIRST bomb successfully in a target zone the detonation timer will start; you must then drop all the bombs within this time period.
+
+;SEG3_8=~g~All 4 bombs must be located at the 4 target zones to pass the mission and demolish the building.
+SEG3_8=~g~All 4 bombs must be located at the 4 target zones to pass the mission and demolish the building.
+
+;SEG3_9=~g~You hit the target! 3 more to go.
+SEG3_9=~g~You hit the target! 3 more to go.
+
+;SENTINL=Sentinel
+SENTINL=Sentinel
+
+;SENTXS=Sentinel XS
+SENTXS=Sentinel XS
+
+;SEP=Sept
+SEP=Sept
+
+;SERG3_5=~g~You can only carry one bomb at a time and cannot pick up successfully planted bombs.
+SERG3_5=~g~You can only carry one bomb at a time and cannot pick up successfully planted bombs.
+
+;SET1EN=SetUp 1. Enabled
+SET1EN=SetUp 1. Enabled
+
+;SHOTGN1=Shotgun
+SHOTGN1=Shotgun
+
+;SHOTGN2=S.P.A.S. 12
+SHOTGN2=S.P.A.S. 12
+
+;SHOTGN3=Stubby shotgun
+SHOTGN3=Stubby shotgun
+
+;SHO_RAN=Shooting Range Rank
+SHO_RAN=Shooting Range Rank
+
+;SKIMMER=Skimmer
+SKIMMER=Skimmer
+
+;SKUMBUY=Skumole Shack purchased: $~1~
+SKUMBUY=Skumole Shack purchased: $~1~
+
+;SKUM_C=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase Skumole Shack for $~1~
+SKUM_C=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase Skumole Shack for $~1~
+
+;SKUM_L=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase Skumole Shack for $~1~
+SKUM_L=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase Skumole Shack for $~1~
+
+;SKUM_T=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase Skumole Shack for $~1~
+SKUM_T=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase Skumole Shack for $~1~
+
+;SNIPE=Sniper rifle
+SNIPE=Sniper rifle
+
+;SPAND=Spand Express
+SPAND=Spand Express
+
+;SPARROW=Sparrow
+SPARROW=Sparrow
+
+;SPEEDER=Speeder
+SPEEDER=Speeder
+
+;SPRAYIN=Sprayings
+SPRAYIN=Sprayings
+
+;SQUALO=Squalo
+SQUALO=Squalo
+
+;STALION=Stallion
+STALION=Stallion
+
+;STARI=Starfish Island
+STARI=Starfish Island
+
+;STFT_01=Fastest time on 'Alloy Wheels Of Steel'
+STFT_01=Fastest time on 'Alloy Wheels Of Steel'
+
+;STFT_02=Fastest time on 'The Driver'
+STFT_02=Fastest time on 'The Driver'
+
+;STFT_03=Fastest time in Dirt Ring
+STFT_03=Fastest time in Dirt Ring
+
+;STFT_04=Fastest time on RC Plane Race
+STFT_04=Fastest time on RC Plane Race
+
+;STFT_05=Fastest time on RC Car Race
+STFT_05=Fastest time on RC Car Race
+
+;STFT_06=Fastest time on RC helicopter Pickup
+STFT_06=Fastest time on RC helicopter Pickup
+
+;STFT_07=Fastest time on 'Terminal Velocity'
+STFT_07=Fastest time on 'Terminal Velocity'
+
+;STFT_08=Fastest time on 'Ocean Drive'
+STFT_08=Fastest time on 'Ocean Drive'
+
+;STFT_09=Fastest time on 'Border Run'
+STFT_09=Fastest time on 'Border Run'
+
+;STFT_10=Fastest time on 'Capital Cruise'
+STFT_10=Fastest time on 'Capital Cruise'
+
+;STFT_11=Fastest time on 'Tour!'
+STFT_11=Fastest time on 'Tour!'
+
+;STFT_12=Fastest time on 'V.C. Endurance'
+STFT_12=Fastest time on 'V.C. Endurance'
+
+;STFT_13=Fastest time on Downtown Chopper Checkpoint
+STFT_13=Fastest time on Downtown Chopper Checkpoint
+
+;STFT_14=Fastest time on Ocean Beach Chopper Checkpoint
+STFT_14=Fastest time on Ocean Beach Chopper Checkpoint
+
+;STFT_15=Fastest time on Vice Point Chopper Checkpoint
+STFT_15=Fastest time on Vice Point Chopper Checkpoint
+
+;STFT_16=Fastest time on Little Haiti Chopper Checkpoint
+STFT_16=Fastest time on Little Haiti Chopper Checkpoint
+
+;STFT_17=Fastest time on 'PCJ Purgatory'
+STFT_17=Fastest time on 'PCJ Purgatory'
+
+;STFT_18=Fastest time on 'Trial By Dirt'
+STFT_18=Fastest time on 'Trial By Dirt'
+
+;STFT_19=Fastest time on 'Test Track'
+STFT_19=Fastest time on 'Test Track'
+
+;STFT_20=Fastest time for 'Cone Crazy'
+STFT_20=Fastest time for 'Cone Crazy'
+
+;STFT_21=Fastest time in Pizza Boy? Pizza Man.
+STFT_21=Fastest time in Pizza Boy? Pizza Man.
+
+;STFT_22=Fastest lap time in Pizza Boy? Pizza Man
+STFT_22=Fastest lap time in Pizza Boy? Pizza Man
+
+;STFT_23=Fastest time for Checkpoint Charlie
+STFT_23=Fastest time for Checkpoint Charlie
+
+;STHC_01=Highest score for Shooter
+STHC_01=Highest score for Shooter
+
+;STHC_02=Best Percentage of hits for Shooter
+STHC_02=Best Percentage of hits for Shooter
+
+;STHC_03=Number of drug deals made
+STHC_03=Number of drug deals made
+
+;STHC_04=Highest score with Keepie-Uppy beach ball
+STHC_04=Highest score with Keepie-Uppy beach ball
+
+;STHC_05=Pizza Boy? Pizza Man. Best Result
+STHC_05=Pizza Boy? Pizza Man. Best Result
+
+;STINGER=Stinger
+STINGER=Stinger
+
+;STOCK=~r~out of stock
+STOCK=~r~out of stock
+
+;STPR_1=The Malibu
+STPR_1=The Malibu
+
+;STPR_10=Links View Apartment
+STPR_10=Links View Apartment
+
+;STPR_11=El Swanko Casa
+STPR_11=El Swanko Casa
+
+;STPR_12=1102 Washington Street
+STPR_12=1102 Washington Street
+
+;STPR_13=Ocean Heights Apartment
+STPR_13=Ocean Heights Apartment
+
+;STPR_14=Skumole Shack
+STPR_14=Skumole Shack
+
+;STPR_15=Hyman Condo
+STPR_15=Hyman Condo
+
+;STPR_2=Print Works
+STPR_2=Print Works
+
+;STPR_3=Film Studio
+STPR_3=Film Studio
+
+;STPR_4=Ice Cream Factory
+STPR_4=Ice Cream Factory
+
+;STPR_5=Car Showroom
+STPR_5=Car Showroom
+
+;STPR_6=Taxi Company
+STPR_6=Taxi Company
+
+;STPR_7=Boatyard
+STPR_7=Boatyard
+
+;STPR_8=Pole Position Club
+STPR_8=Pole Position Club
+
+;STPR_9=3321 Vice Point
+STPR_9=3321 Vice Point
+
+;STRETCH=Stretch
+STRETCH=Stretch
+
+;STRIP=The 'Pole Position Club'
+STRIP=The 'Pole Position Club'
+
+;STRIP_1=~r~Not enough cash, you cheap sleazebag.
+STRIP_1=~r~Not enough cash, you cheap sleazebag.
+
+;STRPBUY=Pole Position Club purchased: $~1~
+STRPBUY=Pole Position Club purchased: $~1~
+
+;STRP_C=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase the Pole Position Club for $~1~
+STRP_C=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase the Pole Position Club for $~1~
+
+;STRP_L=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase the Pole Position Club for $~1~
+STRP_L=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase the Pole Position Club for $~1~
+
+;STRP_NO=You cannot buy the Stripclub at this time, come back later.
+STRP_NO=You cannot buy the Stripclub at this time, come back later.
+
+;STRP_T=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase the Pole Position Club for $~1~
+STRP_T=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase the Pole Position Club for $~1~
+
+;ST_2WHD=Longest 2 wheels distance (m)
+ST_2WHD=Longest 2 wheels distance (m)
+
+;ST_2WHE=Longest 2 wheels time (secs)
+ST_2WHE=Longest 2 wheels time (secs)
+
+;ST_ASSI=Assassination Contracts Completed
+ST_ASSI=Assassination Contracts Completed
+
+;ST_AUTO=Auto Repair and Painting Budget
+ST_AUTO=Auto Repair and Painting Budget
+
+;ST_BRK=Number of TFTM kills
+ST_BRK=Number of TFTM kills
+
+;ST_DAMA=Property Destroyed
+ST_DAMA=Property Destroyed
+
+;ST_DRWN=Fishes Fed
+ST_DRWN=Fishes Fed
+
+;ST_FASH=Fashion Budget
+ST_FASH=Fashion Budget
+
+;ST_FAVR=Favorite radio station
+ST_FAVR=Favorite radio station
+
+;ST_FAVV=Favorite vehicle
+ST_FAVV=Favorite vehicle
+
+;ST_FTIM=Flight hours
+ST_FTIM=Flight hours
+
+;ST_GANG=Least favorite gang
+ST_GANG=Least favorite gang
+
+;ST_GARB=Garbage Pickups Made
+ST_GARB=Garbage Pickups Made
+
+;ST_GNG1=Cubans
+ST_GNG1=Cubans
+
+;ST_GNG2=Haitians
+ST_GNG2=Haitians
+
+;ST_GNG3=Streetwannabe's
+ST_GNG3=Streetwannabe's
+
+;ST_GNG4=Diaz's gang
+ST_GNG4=Diaz's gang
+
+;ST_GNG5=Security guards
+ST_GNG5=Security guards
+
+;ST_GNG6=Biker gang
+ST_GNG6=Biker gang
+
+;ST_GNG7=Vercetti gang
+ST_GNG7=Vercetti gang
+
+;ST_GNG8=Golfers
+ST_GNG8=Golfers
+
+;ST_HEAD=Number of headshots
+ST_HEAD=Number of headshots
+
+;ST_ICEC='Ice Cream' Sold
+ST_ICEC='Ice Cream' Sold
+
+;ST_LOAN=Visits From Loan Sharks
+ST_LOAN=Visits From Loan Sharks
+
+;ST_LTBR=Longest time in TFTM (secs)
+ST_LTBR=Longest time in TFTM (secs)
+
+;ST_MOVI=Movie Stunts
+ST_MOVI=Movie Stunts
+
+;ST_PHOT=Photographs Taken
+ST_PHOT=Photographs Taken
+
+;ST_PIZZ=Pizza's Delivered
+ST_PIZZ=Pizza's Delivered
+
+;ST_PR01=Flyboy
+ST_PR01=Flyboy
+
+;ST_PR02=Aircraftman
+ST_PR02=Aircraftman
+
+;ST_PR03=Pilot Officer
+ST_PR03=Pilot Officer
+
+;ST_PR04=Corporal
+ST_PR04=Corporal
+
+;ST_PR05=Lieutenant
+ST_PR05=Lieutenant
+
+;ST_PR06=Sergeant
+ST_PR06=Sergeant
+
+;ST_PR07=Captain
+ST_PR07=Captain
+
+;ST_PR08=Biggs
+ST_PR08=Biggs
+
+;ST_PR09=Wedge
+ST_PR09=Wedge
+
+;ST_PR10=Red Baron
+ST_PR10=Red Baron
+
+;ST_PR11=Goose
+ST_PR11=Goose
+
+;ST_PR12=Viper
+ST_PR12=Viper
+
+;ST_PR13=Jester
+ST_PR13=Jester
+
+;ST_PR14=Chappy
+ST_PR14=Chappy
+
+;ST_PR15=Iceman
+ST_PR15=Iceman
+
+;ST_PR16=Maverick
+ST_PR16=Maverick
+
+;ST_PR17=Noops
+ST_PR17=Noops
+
+;ST_PR18=Air Chief Marshal
+ST_PR18=Air Chief Marshal
+
+;ST_PR19=Ace
+ST_PR19=Ace
+
+;ST_PRAN=Pilot Ranking
+ST_PRAN=Pilot Ranking
+
+;ST_PROP=Property Budget
+ST_PROP=Property Budget
+
+;ST_RAN0=Learner
+ST_RAN0=Learner
+
+;ST_RAN1=Navigator
+ST_RAN1=Navigator
+
+;ST_RAN2=Co Pilot
+ST_RAN2=Co Pilot
+
+;ST_RAN3=Junior
+ST_RAN3=Junior
+
+;ST_RAN4=Competent
+ST_RAN4=Competent
+
+;ST_RAN5=Senior
+ST_RAN5=Senior
+
+;ST_RAN6=Ace
+ST_RAN6=Ace
+
+;ST_RAN7=Red baron
+ST_RAN7=Red baron
+
+;ST_STAR=Total number of wanted stars attained
+ST_STAR=Total number of wanted stars attained
+
+;ST_STGN=Total number of wanted stars evaded
+ST_STGN=Total number of wanted stars evaded
+
+;ST_STOD=Longest Stoppie distance (m)
+ST_STOD=Longest Stoppie distance (m)
+
+;ST_STOP=Longest Stoppie time (secs)
+ST_STOP=Longest Stoppie time (secs)
+
+;ST_STOR=Stores Knocked Off
+ST_STOR=Stores Knocked Off
+
+;ST_TIME=Playing Time
+ST_TIME=Playing Time
+
+;ST_WEAP=Weapon Budget
+ST_WEAP=Weapon Budget
+
+;ST_WHED=Longest Wheelie distance (m)
+ST_WHED=Longest Wheelie distance (m)
+
+;ST_WHEE=Longest Wheelie time (secs)
+ST_WHEE=Longest Wheelie time (secs)
+
+;ST_WSTR=least favorite radio station
+ST_WSTR=least favorite radio station
+
+;SUNSHIN=Sunshine Autos
+SUNSHIN=Sunshine Autos
+
+;S_PROMP=When not on a mission you can save your progress by collecting the ~h~cassette tape pickup.
+S_PROMP=When not on a mission you can save your progress by collecting the ~h~cassette tape pickup.
+
