@@ -1,64 +1,64 @@
 [BARON3]
 ;COK3_5=~g~Find the switch to lower the boat.
-COK3_5=~g~Find the switch to lower the boat.
+COK3_5=~g~寻找控制台，降下赛艇。
 
 ;COK3_6=~g~Get the boat to the mansion.
-COK3_6=~g~Get the boat to the mansion.
+COK3_6=~g~驾驶赛艇回到迪亚兹宅。
 
 ;COK3_7=~r~You destroyed the boat!
-COK3_7=~r~You destroyed the boat!
+COK3_7=~r~赛艇被毁了！你等于…你也有责任吧？
 
 ;COK3_8=~g~Go to the boatyard and steal the ~y~fastest boat,~g~ careful though it's in a state of disrepair!
-COK3_8=~g~Go to the boatyard and steal the ~y~fastest boat,~g~ careful though it's in a state of disrepair!
+COK3_8=~g~杀入码头，并偷走 ~y~最速赛艇，~g~ 尽管年久失修，但要小心！
 
 ;COK3_9=~g~Diaz would really prefer you stop stealing his Infernus...
-COK3_9=~g~Diaz would really prefer you stop stealing his Infernus...
+COK3_9=~g~迪亚兹真的希望你不要开他的炼狱魔…
 
 ;COK3_A=Not so pleased with your selves NOW, huh!
-COK3_A=Not so pleased with your selves NOW, huh!
+COK3_A=现在得意不起来了吧！嗯！
 
 ;COK3_B=Ahahahahaa, Ahahahahaa.
-COK3_B=Ahahahahaa, Ahahahahaa.
+COK3_B=啊哈哈哈哈…啊哈哈哈哈…
 
 ;COK3_C=Whoa! Watch where you're waving that thing!
-COK3_C=Whoa! Watch where you're waving that thing!
+COK3_C=哇！可别随便乱挥啊！
 
 ;COK3_D=No more pigeon shit on MY car, eh Tommy!
-COK3_D=No more pigeon shit on MY car, eh Tommy!
+COK3_D=再也不会有鸽子把屎拉我车上了！嗯！汤米！
 
 ;COK3_E=Guess not.
-COK3_E=Guess not.
+COK3_E=应该不会有了。
 
 ;COK3_F=You're damn right. Now listen,
-COK3_F=You're damn right. Now listen,
+COK3_F=你说的真他妈没错！听着，
 
 ;COK3_G=you know who owns the fastest boat on the east coast?
-COK3_G=you know who owns the fastest boat on the east coast?
+COK3_G=你知道在东海岸，谁的赛艇最快么？
 
 ;COK3_H=Not off hand, no.
-COK3_H=Not off hand, no.
+COK3_H=不知道…不懂。
 
 ;COK3_I=ME. And I want it to stay that way.
-COK3_I=ME. And I want it to stay that way.
+COK3_I=老子的！老子想要维持现状。
 
 ;COK3_J=Every smuggler from here to Caracas has one dream, a faster boat.
-COK3_J=Every smuggler from here to Caracas has one dream, a faster boat.
+COK3_J=从罪城到加拉加斯的每一个毒贩都有一个梦想——拥有最快的赛艇。
 
 ;COK3_K=Rumor has it the boatyard has just completed such a vessel.
-COK3_K=Rumor has it the boatyard has just completed such a vessel.
+COK3_K=听说不久前船厂造出了一艘更快的赛艇，
 
 ;COK3_L=for some Costa Rican dickhead.
-COK3_L=for some Costa Rican dickhead.
+COK3_L=给哥斯达黎加的孙子们准备的。
 
 ;COK3_M=And Tommy...I WANT THAT BOAT!!!
-COK3_M=And Tommy...I WANT THAT BOAT!!!
+COK3_M=汤米…我想要那艘船！
 
 ;COK3_N=~g~Hey, that guy's stealing ~y~the fastest boat!
-COK3_N=~g~Hey, that guy's stealing ~y~the fastest boat!
+COK3_N=~g~嘿，这个家伙正要偷~y~最速赛艇！
 
 ;COK3_O=Ah! I thought I got you. Where'd you come from?
-COK3_O=Ah! I thought I got you. Where'd you come from?
+COK3_O=啊！逮到你了！你是从哪儿来送死的？！
 
 ;COK3_P=Pigeons! Boom! Aaaaah!
-COK3_P=Pigeons! Boom! Aaaaah!
+COK3_P=死鸽子！蹦！啊啊啊啊！
 
