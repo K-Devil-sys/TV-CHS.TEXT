@@ -1,67 +1,66 @@
 [BIKE2]
 ;BM2_1=CHAOSMETER:
-BM2_1=CHAOSMETER:
+BM2_1=混乱程度：
 
 ;BM2_2=~g~You must fill the Chaos Meter in the time given to show us how much of a badass you are!
-BM2_2=~g~You must fill the Chaos Meter in the time given to show us how much of a badass you are!
+BM2_2=~g~尽可能搞得鸡飞狗跳，向飞车党证明你有多无法无天！
 
 ;BM2_3=~g~This sound indicates that you have filled a part of the meter, continue to do so.
-BM2_3=~g~This sound indicates that you have filled a part of the meter, continue to do so.
+BM2_3=~g~混乱程度增长，系统便会以这种声音作为提示。
 
 ;BM2_4=~r~You failed to fill the Chaos Meter in time!
-BM2_4=~r~You failed to fill the Chaos Meter in time!
+BM2_4=~r~跟飞车党相比，你就是个守法良民！
 
 ;BM2_A=Ah, got ya again.
-BM2_A=Ah, got ya again.
+BM2_A=啊，又赢了！
 
 ;BM2_B=Hey Vercetti.
-BM2_B=Hey Vercetti.
+BM2_B=嘿，维赛迪。
 
 ;BM2_C=Cougar says you can handle a bike pretty good.
-BM2_C=Cougar says you can handle a bike pretty good.
+BM2_C=美洲狮说你骑得很不错。
 
 ;BM2_D=Yeah, how many more errands am I gonna to have to run?
-BM2_D=Yeah, how many more errands am I gonna to have to run?
+BM2_D=嗯。还要我做多少事情你们才会同意？
 
 ;BM2_E=I'm a very busy man.
-BM2_E=I'm a very busy man.
+BM2_E=我可是很忙的。
 
 ;BM2_F=If it's a fight that's gonna settle this then bring it on.
-BM2_F=If it's a fight that's gonna settle this then bring it on.
+BM2_F=如果不是需要武力解决的问题，就别叫我了。
 
 ;BM2_G=Being one of us ain't just about brawlin'. It's about being part of a family.
-BM2_G=Being one of us ain't just about brawlin'. It's about being part of a family.
+BM2_G=要成为我们的一员，只会蛮力可不够。要把自己当做家族的一份子。
 
 ;BM2_H=Yeah, I've been part of a family before alright. It didn't work out.
-BM2_H=Yeah, I've been part of a family before alright. It didn't work out.
+BM2_H=是吗，我原来也是家族的一份子，然而这并没有什么卵用。
 
 ;BM2_I=Yeah, right, but this family takes care of its own.
-BM2_I=Yeah, right, but this family takes care of its own.
+BM2_I=没错，但我们飞车党家族是有难同当的，
 
 ;BM2_J=We don't ask a man to do the dirty work and then let him do fifteen years hard time.
-BM2_J=We don't ask a man to do the dirty work and then let him do fifteen years hard time.
+BM2_J=我们可不会派一个兄弟去干脏活，然后让他背十五年的黑锅。
 
 ;BM2_K=Yeah, that's right. I've done my homework.
-BM2_K=Yeah, that's right. I've done my homework.
+BM2_K=就是这样，该说的都说了。
 
 ;BM2_L=This here's the biggest family of misfits, outcasts and badasses.
-BM2_L=This here's the biggest family of misfits, outcasts and badasses.
+BM2_L=我们飞车党家族是由那些不合群的家伙和恶棍组成的。
 
 ;BM2_M=Hell, some of us has even been betrayed by our own country.
-BM2_M=Hell, some of us has even been betrayed by our own country.
+BM2_M=妈的，我们家族中间甚至有人背叛了国家。
 
 ;BM2_N=I was locked up during 'Nam. Ugly business.
-BM2_N=I was locked up during 'Nam. Ugly business.
+BM2_N=越战那十几年，我全在监狱待着…肮脏的江湖…
 
 ;BM2_O=Which is why I'm gonna ask you to go mess with the man.
-BM2_O=Which is why I'm gonna ask you to go mess with the man.
+BM2_O=所以这次我要你去报复社会，
 
 ;BM2_P=This whole damn country needs a kick in the ass, and we're the ones to deliver it.
-BM2_P=This whole damn country needs a kick in the ass, and we're the ones to deliver it.
+BM2_P=这个国家需要一记当头耳光，我们就是干这一行的。
 
 ;BM2_Q=So get out there, grab a bike and show this city how pissed you are!
-BM2_Q=So get out there, grab a bike and show this city how pissed you are!
+BM2_Q=到街上搞辆摩托来，给这座城市看看你有多恶心！
 
 ;BM2_R=Alright, alright.
-BM2_R=Alright, alright.
-
+BM2_R=好吧，好吧。
