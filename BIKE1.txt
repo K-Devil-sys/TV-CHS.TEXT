@@ -1,61 +1,60 @@
 [BIKE1]
 ;BIKE1_1=All right, fancy clothes. Let's see what you can do.
-BIKE1_1=All right, fancy clothes. Let's see what you can do.
+BIKE1_1=好的，时髦靓仔。让我们看看你有几斤几两吧！
 
 ;BM1_1=~g~These boys aren't hanging around to get their bikes nicked, better get going!!
-BM1_1=~g~These boys aren't hanging around to get their bikes nicked, better get going!!
+BM1_1=~g~这些人的车子可不好惹，赶紧走吧！！
 
 ;BM1_2=~g~You need a Freeway or an Angel to compete!
-BM1_2=~g~You need a Freeway or an Angel to compete!
+BM1_2=~g~需要乘坐“Freeway”或“Angel”完成比赛！
 
 ;BM1_3=~r~The racers have been attacked!
-BM1_3=~r~The racers have been attacked!
+BM1_3=~r~暗中偷袭，不是正人君子！
 
 ;BM1_A=Where's Baker?
-BM1_A=Where's Baker?
+BM1_A=贝克是哪位？
 
 ;BM1_B=I'm looking for Big Mitch Baker...
-BM1_B=I'm looking for Big Mitch Baker...
+BM1_B=我找“大佬”米奇·贝克。
 
 ;BM1_C=Who's lookin'?
-BM1_C=Who's lookin'?
+BM1_C=谁找我？
 
 ;BM1_D=Tommy Vercetti.
-BM1_D=Tommy Vercetti.
+BM1_D=汤米·维赛迪。
 
 ;BM1_E=Vercetti
-BM1_E=Vercetti
+BM1_E=维赛迪…
 
 ;BM1_F=You don't look like the law, so that's bought you a minute.
-BM1_F=You don't look like the law, so that's bought you a minute.
+BM1_F=看来不是条子，那我给你一分钟。
 
 ;BM1_G=You better talk fast.
-BM1_G=You better talk fast.
+BM1_G=有屁快放。
 
 ;BM1_H=Kent Paul said you might be interested in pulling security for a gig he's got set up.
-BM1_H=Kent Paul said you might be interested in pulling security for a gig he's got set up.
+BM1_H=肯特·保罗说你或许会对他组织的摇滚演唱会感兴趣。
 
 ;BM1_I=Kent Paul? Sheesh! No wonder he sent ya.
-BM1_I=Kent Paul? Sheesh! No wonder he sent ya.
+BM1_I=肯特·保罗？嘘！难怪他叫你来。
 
 ;BM1_J=The last time he was here he left through the window in nothing but his limey birthday suit.
-BM1_J=The last time he was here he left through the window in nothing but his limey birthday suit.
+BM1_J=上次他离开的方式是：是穿着英国佬的生日礼服从窗户那儿滚出去的。
 
 ;BM1_K=Are you interested or not?
-BM1_K=Are you interested or not?
+BM1_K=你到底有没有兴趣。
 
 ;BM1_L=We only do favors for our own.
-BM1_L=We only do favors for our own.
+BM1_L=我们只为自己办事。
 
 ;BM1_M=How do I join?
-BM1_M=How do I join?
+BM1_M=我怎么样才能加入你们？
 
 ;BM1_N=This ain't no country club, boy. Can you handle a bike?
-BM1_N=This ain't no country club, boy. Can you handle a bike?
+BM1_N=这里可不是乡村俱乐部，小子。会骑摩托吗？
 
 ;BM1_O=Can you sit on a stool and drink?
-BM1_O=Can you sit on a stool and drink?
+BM1_O=不能坐着边喝边谈吗？
 
 ;BM1_P=Cougar, Zeppelin, go see how this girl handles a bike...
-BM1_P=Cougar, Zeppelin, go see how this girl handles a bike...
-
+BM1_P=美洲狮，齐柏林，过来看看这娘们儿怎么骑摩托的…
