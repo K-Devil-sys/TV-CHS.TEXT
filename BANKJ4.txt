@@ -1,241 +1,241 @@
 [BANKJ4]
 ;ASSET_A=BANK HEIST ASSET COMPLETED!
-ASSET_A=BANK HEIST ASSET COMPLETED!
+ASSET_A=银行抢劫任务完成！
 
 ;ASSET_B=~g~The Malibu Club will now generate revenue up to a maximum of $~1~ per day. Pick up your cash regularly!
-ASSET_B=~g~The Malibu Club will now generate revenue up to a maximum of $~1~ per day. Pick up your cash regularly!
+ASSET_B=~g~马里布俱乐部每日最高盈利$~1~。别忘了来取。
 
 ;BK4_12A=Damn! It's a Flange 9000!
-BK4_12A=Damn! It's a Flange 9000!
+BK4_12A=妈的！门锁是法兰9000型的！
 
 ;BK4_12B=This could take hours to crack,
-BK4_12B=This could take hours to crack,
+BK4_12B=可能要几个小时才能搞定，
 
 ;BK4_12C=Or five minutes if you could find the manager.
-BK4_12C=Or five minutes if you could find the manager.
+BK4_12C=如果你把经理带过来，那就只要五分钟了。
 
 ;BK4_14A=Phil, things still sweet?
-BK4_14A=Phil, things still sweet?
+BK4_14A=菲尔，情况还好吧？
 
 ;BK4_19A=It's on a time lock,
-BK4_19A=It's on a time lock,
+BK4_19A=这是个时间锁，
 
 ;BK4_19B=You might as well give up now!
-BK4_19B=You might as well give up now!
+BK4_19B=你们最好还是放弃吧。
 
 ;BK4_20A=Hell, I can bypass the time lock,
-BK4_20A=Hell, I can bypass the time lock,
+BK4_20A=妈的，我可以跳过这个步骤，
 
 ;BK4_20B=Then we just need your key code and we're good!
-BK4_20B=Then we just need your key code and we're good!
+BK4_20B=只要你把密码告诉我，就让你平安！
 
 ;BK4_23A=Give me 5 minutes!
-BK4_23A=Give me 5 minutes!
+BK4_23A=给我五分钟！
 
 ;BK4_24A=I'm gonna check on Phil, I'll be right back.
-BK4_24A=I'm gonna check on Phil, I'll be right back.
+BK4_24A=我去看看菲尔，马上回来。
 
 ;BK4_24B=I told you not to touch that alarm!
-BK4_24B=I told you not to touch that alarm!
+BK4_24B=告诉过你了，别碰警报器！
 
 ;BK4_31A=Tommy! The vault's open!
-BK4_31A=Tommy! The vault's open!
+BK4_31A=汤米！锁打开了！
 
 ;BK4_34A=Ok, we got the SWAT retirement fund. Let's get out of here!
-BK4_34A=Ok, we got the SWAT retirement fund. Let's get out of here!
+BK4_34A=OK，斯沃特的退休金到手了！赶紧开溜！
 
 ;BK4_34B=Ok, you asked for it! You've had your last chance!
-BK4_34B=Ok, you asked for it! You've had your last chance!
+BK4_34B=OK，你们自找的！可别后悔！
 
 ;BK4_35A=They're storming the place!
-BK4_35A=They're storming the place!
+BK4_35A=他们开始进攻了
 
 ;BK4_35B=Take cover!
-BK4_35B=Take cover!
+BK4_35B=找掩护！
 
 ;BM_DEAD=~r~You needed the bank manager alive!!
-BM_DEAD=~r~You needed the bank manager alive!!
+BM_DEAD=~r~经理死了，你就守在银行一整天等着卡姆开锁吧。
 
 ;BNK422A=Cam, how long?
-BNK422A=Cam, how long?
+BNK422A=卡姆，要多久？
 
 ;BNK4_1=I'll drive.
-BNK4_1=I'll drive.
+BNK4_1=我先开车。
 
 ;BNK4_10=Wilco roger that!
-BNK4_10=Wilco roger that!
+BNK4_10=明白，照办！
 
 ;BNK4_11=Come on Cam, the vault's upstairs...
-BNK4_11=Come on Cam, the vault's upstairs...
+BNK4_11=来吧，卡姆，金库在楼上。
 
 ;BNK4_13=I'll go find where he's holed up.
-BNK4_13=I'll go find where he's holed up.
+BNK4_13=我去看看他藏哪儿去了。
 
 ;BNK4_15=Sure. Everything's reeaal quiet.
-BNK4_15=Sure. Everything's reeaal quiet.
+BNK4_15=当然。没人敢发声儿。
 
 ;BNK4_16=You - you're coming with me!
-BNK4_16=You - you're coming with me!
+BNK4_16=You - 你！你跟我过来！
 
 ;BNK4_17=Ok! Ok! Just don't shoot!
-BNK4_17=Ok! Ok! Just don't shoot!
+BNK4_17=OK！OK！别开枪就好！
 
 ;BNK4_18=I SAID NOBODY MOVE!
-BNK4_18=I SAID NOBODY MOVE!
+BNK4_18=我说了！别动！
 
 ;BNK4_2=Great. A passenger. Wait 'til I tell the group about this.
-BNK4_2=Great. A passenger. Wait 'til I tell the group about this.
+BNK4_2=太好了！不是我开！等等到银行了再换我吧。
 
 ;BNK4_21=Stay here. You try anything and you're dead.
-BNK4_21=Stay here. You try anything and you're dead.
+BNK4_21=别动。敢动就让你上天。
 
 ;BNK4_25=The SWAT team will be here any minute!
-BNK4_25=The SWAT team will be here any minute!
+BNK4_25=斯沃特小队随时可能来袭！
 
 ;BNK4_27=I could do with some help here, Tommy!
-BNK4_27=I could do with some help here, Tommy!
+BNK4_27=我在这里守着，汤米！
 
 ;BNK4_28=Vice City S.W.A.T! You are completely surrounded!
-BNK4_28=Vice City S.W.A.T! You are completely surrounded!
+BNK4_28=我们是罪都斯沃特小队！你们被包围了！
 
 ;BNK4_29=Surrounded? HA HA HA HAAAAAaaa!
-BNK4_29=Surrounded? HA HA HA HAAAAAaaa!
+BNK4_29=被包围了？哈哈哈哈…！
 
 ;BNK4_30=They're crapping themselves, corrupt bastards!
-BNK4_30=They're crapping themselves, corrupt bastards!
+BNK4_30=真他妈扯淡，腐败的条子们！
 
 ;BNK4_3A=~g~Trying to rob a bank while wanted, 1000 IQ play right there...
-BNK4_3A=~g~Trying to rob a bank while wanted, 1000 IQ play right there...
+BNK4_3A=~g~嘿，注意车子，汤米！
 
-;BNK4_3B=Tommy, Hilary's taking up too much room!
+;BNK4_3B=汤米，希拉里太占地方了！
 BNK4_3B=Tommy, Hilary's taking up too much room!
 
 ;BNK4_3C=I am not!
-BNK4_3C=I am not!
+BNK4_3C=没有！
 
 ;BNK4_3D=Are too!
-BNK4_3D=Are too!
+BNK4_3D=就有！
 
 ;BNK4_3E=Hey, shut up you two, or you can get out and walk.
-BNK4_3E=Hey, shut up you two, or you can get out and walk.
+BNK4_3E=嘿，你们两个消停点，不然就下车走过去。
 
 ;BNK4_3F=Yeah - HILARY.
-BNK4_3F=Yeah - HILARY.
+BNK4_3F=好吧。希拉里。
 
 ;BNK4_3I=For god's sake, Phil, stop waving that thing around!
-BNK4_3I=For god's sake, Phil, stop waving that thing around!
+BNK4_3I=拜托，菲尔，别拿着枪乱挥！
 
 ;BNK4_3J=Yeah, you'll have somebody's eye out!
-BNK4_3J=Yeah, you'll have somebody's eye out!
+BNK4_3J=是啊，你这样会被警察盯上的！
 
 ;BNK4_3M=The car's ruined. RUINED!
-BNK4_3M=The car's ruined. RUINED!
+BNK4_3M=车子坏了！坏了！
 
 ;BNK4_3O=You cling to an illusion of permanence.
-BNK4_3O=You cling to an illusion of permanence.
+BNK4_3O=你沉浸在过去的幻觉里无法自拔。
 
 ;BNK4_3P=What?
-BNK4_3P=What?
+BNK4_3P=什么？
 
 ;BNK4_3Q=You think all things will last.
-BNK4_3Q=You think all things will last.
+BNK4_3Q=你觉得什么事情都是不变的——
 
 ;BNK4_3R=Youth, loved ones, pizza,
-BNK4_3R=Youth, loved ones, pizza,
+BNK4_3R=青春，爱人，披萨。
 
 ;BNK4_3S=All will pass or end and you must accept that.
-BNK4_3S=All will pass or end and you must accept that.
+BNK4_3S=可这一切都会老去，你必须接受它。
 
 ;BNK4_3T=You're right. Thanks, Cam.
-BNK4_3T=You're right. Thanks, Cam.
+BNK4_3T=有道理。谢谢你，卡姆。
 
 ;BNK4_3U=Don't mention it.
-BNK4_3U=Don't mention it.
+BNK4_3U=不用谢
 
 ;BNK4_3V=Hey Tommy, why have we stopped?
-BNK4_3V=Hey Tommy, why have we stopped?
+BNK4_3V=嘿，汤米，为什么停下来？
 
 ;BNK4_4A=~w~Keep driving around the block, OK?
-BNK4_4A=~w~Keep driving around the block, OK?
+BNK4_4A=~w~绕着街区一直开，OK？
 
 ;BNK4_5=~w~Okay, Tommy, Okay.
-BNK4_5=~w~Okay, Tommy, Okay.
+BNK4_5=~w~OK，汤米，OK。
 
 ;BNK4_6=~w~THIS IS A RAID!
-BNK4_6=~w~THIS IS A RAID!
+BNK4_6=~w~抢劫！
 
 ;BNK4_7=~w~NOBODY MOVE!
-BNK4_7=~w~NOBODY MOVE!
+BNK4_7=~w~别动！!
 
 ;BNK4_8=~w~EVERYBODY UP AGAINST THAT WALL!
-BNK4_8=~w~EVERYBODY UP AGAINST THAT WALL!
+BNK4_8=~w~全部靠墙站！
 
 ;BNK4_9=Phil, hold down the fort!
-BNK4_9=Phil, hold down the fort!
+BNK4_9=菲尔，守好前线！
 
 ;BNK4_94=~w~Ok, guys. Nice an easy just as we planned.
-BNK4_94=~w~Ok, guys. Nice an easy just as we planned.
+BNK4_94=~w~OK，伙计们。按计划行动。
 
 ;BNK4_A=~w~As you can see, gentlemen, this is going to be the easiest buck we ever made.
-BNK4_A=~w~As you can see, gentlemen, this is going to be the easiest buck we ever made.
+BNK4_A=~w~正如大家所见，这将是我们干过的最容易的一票。
 
 ;BNK4_B=~w~Tommy, seriously, you gotta consider going into law.
-BNK4_B=~w~Tommy, seriously, you gotta consider going into law.
+BNK4_B=~w~汤米，我说真的，你们应该考虑下走法律程序。
 
 ;BNK4_C=~w~What the hell are you smoking, man? This ain't no simple plan!
-BNK4_C=~w~What the hell are you smoking, man? This ain't no simple plan!
+BNK4_C=~w~妈的你是在开玩笑吧，老兄？干这一票可不容易啊！
 
 ;BNK4_D=~w~Well, who needs a simple plan anyway?
-BNK4_D=~w~Well, who needs a simple plan anyway?
+BNK4_D=~w~再说，有谁需要容易的一票呢？
 
 ;BNK4_E=~w~Take communism, now that was a simple plan. Didn't do Russia any favors, huh?
-BNK4_E=~w~Take communism, now that was a simple plan. Didn't do Russia any favors, huh?
+BNK4_E=~w~消灭赤匪，干这一票最容易了！让毛子吃点苦头，嗯？！
 
 ;BNK4_F=~w~Calm down, all right? With a team like this it's going to be no problem.
-BNK4_F=~w~Calm down, all right? With a team like this it's going to be no problem.
+BNK4_F=~w~镇静些，行不？有这样的团队，没问题。
 
 ;BNK4_G=~w~We got Cam on safe. Phil? You and me will handle security, and Hilary'll drive the getaway car.
-BNK4_G=~w~We got Cam on safe. Phil? You and me will handle security, and Hilary'll drive the getaway car.
+BNK4_G=~w~卡姆负责开锁。菲尔，你和我负责守卫。希拉里开车。
 
 ;BNK4_H=~w~Uh, heh heh, aren't you forgetting somebody? Somebody who helped you to no end in this town? Somebody who...
-BNK4_H=~w~Uh, heh heh, aren't you forgetting somebody? Somebody who helped you to no end in this town? Somebody who...
+BNK4_H=~w~呃，呵呵，大家是不是忘了还有个人？他一直在城内帮助大家…他一直…
 
 ;BNK4_I=~w~Ken... Ken, that's right. Ken here, he washes the money for us and he keeps the drinks on ice.
-BNK4_I=~w~Ken... Ken, that's right. Ken here, he washes the money for us and he keeps the drinks on ice.
+BNK4_I=~w~肯…肯…没错，肯待在这里，帮助我们洗钱，顺便喝口小酒。
 
 ;BNK4_J=~w~I don't understand what I am supposed to be doing here.
-BNK4_J=~w~I don't understand what I am supposed to be doing here.
+BNK4_J=~w~我搞不懂我要干嘛。
 
 ;BNK4_K=~w~Look, it's easy. Haven't you ever seen a movie?
-BNK4_K=~w~Look, it's easy. Haven't you ever seen a movie?
+BNK4_K=~w~听着，很简单的，你看过电影吧？
 
 ;BNK4_L=~w~We walk into the bank, we wave the gun around, and leave very rich men.
-BNK4_L=~w~We walk into the bank, we wave the gun around, and leave very rich men.
+BNK4_L=~w~我们走进银行，拿着枪走几圈儿，然后就能赚大钱。
 
 ;C_DEAD=~r~Cam's dead!!
-C_DEAD=~r~Cam's dead!!
+C_DEAD=~r~卡姆死了！
 
 ;C_HIND=~r~Cam's been left behind!
-C_HIND=~r~Cam's been left behind!
+C_HIND=~r~卡姆迷路了！
 
 ;GETCAR=~g~Get in the getaway car to do the bank job!
-GETCAR=~g~Get in the getaway car to do the bank job!
+GETCAR=~g~不上车怎么干一大票？
 
 ;H_DEAD=~r~Hilary's dead!!
-H_DEAD=~r~Hilary's dead!!
+H_DEAD=~r~希拉里死了！
 
 ;H_HIND=~r~Hilary's been abandoned!
-H_HIND=~r~Hilary's been abandoned!
+H_HIND=~r~希拉里被落下了！
 
 ;IDIOT=~r~ That's right, just wander about dressed like a lunatic and draw attention to yourself, IDIOT!
-IDIOT=~r~ That's right, just wander about dressed like a lunatic and draw attention to yourself, IDIOT!
+IDIOT=~r~ 这波可以。穿着劫匪的衣服到处吸引注意力，你很厉害。
 
 ;P_DEAD=~r~Phil's dead!!
-P_DEAD=~r~Phil's dead!!
+P_DEAD=~r~菲尔死了！
 
 ;P_HIND=~r~You've lost Phil!
-P_HIND=~r~You've lost Phil!
+P_HIND=~r~菲尔跟不上了！
 
 ;TRASHED=~r~YOU TRASHED THE GETAWAY CAR!!
-TRASHED=~r~YOU TRASHED THE GETAWAY CAR!!
+TRASHED=~r~现在怎么逃脱啊！
 
