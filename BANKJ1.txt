@@ -1,82 +1,81 @@
 [BANKJ1]
 ;BJM1_1=~g~Break Cam Jones out of police custody!
-BJM1_1=~g~Break Cam Jones out of police custody!
+BJM1_1=~g~从条子那里解救卡姆琼斯！
 
 ;BJM1_2=~r~You were supposed to bust Cam out, not get him killed!
-BJM1_2=~r~You were supposed to bust Cam out, not get him killed!
+BJM1_2=~r~你本来应该救他的，而不是让他去送死的！
 
 ;BJM1_20=Put the weapon away or face the consequences!
-BJM1_20=Put the weapon away or face the consequences!
+BJM1_20=放下武器，否则就吃枪子吧！
 
 ;BJM1_21=~g~The key card used to be in here... Where could it be?
-BJM1_21=~g~The key card used to be in here... Where could it be?
+BJM1_21=~g~那把钥匙卡曾经在这里，它去哪儿了？
 
 ;BJM1_22=~g~Get Cam back to his house!
-BJM1_22=~g~Get Cam back to his house!
+BJM1_22=~g~把卡姆带回他的家！
 
 ;BJM1_23=~g~You need to get the key card first!
-BJM1_23=~g~You need to get the key card first!
+BJM1_23=~g~你需要先找到那把钥匙卡！
 
 ;BJM1_3=~g~Borrowing a police uniform might grant a clue for finding that keycard...
-BJM1_3=~g~Borrowing a police uniform might grant a clue for finding that keycard...
+BJM1_3=~g~借一身警服也许能给你找到那把钥匙卡的线索……
 
 ;BJM1_4=He's armed! Kill him!
-BJM1_4=He's armed! Kill him!
+BJM1_4=他拿着武器！杀了他！
 
 ;BJM1_5=Only authorized personnel beyond this point!
-BJM1_5=Only authorized personnel beyond this point!
+BJM1_5=只有授权人员可以进入！
 
 ;BJM1_A=Tommy! Hey, Tommy, look at this, this is great! I've got us this minibar installed!
-BJM1_A=Tommy! Hey, Tommy, look at this, this is great! I've got us this minibar installed!
+BJM1_A=汤米！嘿，汤米，看这个，这太棒了！我给我们安装了一个迷你酒吧！
 
 ;BJM1_B=We got a whole bar downstairs, Ken.
-BJM1_B=We got a whole bar downstairs, Ken.
+BJM1_B=我们楼下有一整个酒吧，肯。
 
 ;BJM1_C=Yeah, yeah, whatever. Well, I got the chalkboard you asked for.
-BJM1_C=Yeah, yeah, whatever. Well, I got the chalkboard you asked for.
+BJM1_C=对，对，随便。我把你要的粉笔板拿来了。
 
 ;BJM1_D=Ah, that's the benefit of a law school education: the ability to follow instructions.
-BJM1_D=Ah, that's the benefit of a law school education: the ability to follow instructions.
+BJM1_D=啊，这就是上法学院的好处：能够遵循指令。
 
 ;BJM1_E=Now, I need a safe man.
-BJM1_E=Now, I need a safe man.
+BJM1_E=现在，我需要一个能破解保险箱的黑客。
 
 ;BJM1_F=Oh, all right, well, let me think...safe, safe, safe, safe - I got it! This guy will blow you away!
-BJM1_F=Oh, all right, well, let me think...safe, safe, safe, safe - I got it! This guy will blow you away!
+BJM1_F=好了，好了，那让我想想……黑客，黑客，黑客，我想到了！这个家伙会让你大吃一惊的！
 
 ;BJM1_G=Ahh, nah, that schmuck. He's on the inside.
-BJM1_G=Ahh, nah, that schmuck. He's on the inside.
+BJM1_G=啊，不，那个笨蛋。他是内线人。
 
 ;BJM1_H=Where inside?
-BJM1_H=Where inside?
+BJM1_H=在哪个地方？
 
 ;BJM1_I=In a police headquarter cell awaiting transfer.
-BJM1_I=In a police headquarter cell awaiting transfer.
+BJM1_I=在警察总部的牢房里等候转移。
 
 ;BJM1_J=I think he's about to get paroled....
-BJM1_J=I think he's about to get paroled....
+BJM1_J=我觉得他快要被假释了……
 
 ;BNK1_10=Yeah, that's me..
-BNK1_10=Yeah, that's me..
+BNK1_10=是的，就是我。
 
 ;BNK1_11=Whatever you say!
-BNK1_11=Whatever you say!
+BNK1_11=随便你说什么！
 
 ;BNK1_12=Lose the heat and get me back to my place!
-BNK1_12=Lose the heat and get me back to my place!
+BNK1_12=甩掉警察并把我带回家！
 
 ;BNK1_13=I'm gonna be doing a job and you're my safe cracker.
-BNK1_13=I'm gonna be doing a job and you're my safe cracker.
+BNK1_13=我要进行一件事情，而你是我的黑客。
 
 ;BNK1_14=~g~The cops have spotted you on their roof!
-BNK1_14=~g~The cops have spotted you on their roof!
+BNK1_14=~g~警察已经注意到了你所在的屋顶！
 
 ;BNK1_7=Cam Jones?
-BNK1_7=Cam Jones?
+BNK1_7=卡姆琼斯？
 
 ;BNK1_8=I'm busting you out!
-BNK1_8=I'm busting you out!
+BNK1_8=我要救你出去！
 
 ;WANTED1=~g~Shake the cops and lose your wanted level!
-WANTED1=~g~Shake the cops and lose your wanted level!
-
+WANTED1=~g~甩掉警察并消除你的通缉等级！
